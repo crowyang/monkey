@@ -3,3 +3,8 @@ C#
 # 123
 - this is a test project
 - 4564
+<<<<<<< HEAD
+- add B
+=======
+- add A
+>>>>>>> 3f18a26cd1fe5c6df1b0e1adba7a75a305986417
